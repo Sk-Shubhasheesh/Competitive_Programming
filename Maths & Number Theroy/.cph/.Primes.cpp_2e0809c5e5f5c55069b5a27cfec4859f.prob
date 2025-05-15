@@ -1,0 +1,1 @@
+{"name":"Local: Primes","url":"e:\\CP\\Maths & Number Theroy\\Primes.cpp","tests":[{"id":1746940453193,"input":"5","output":"2 3\n"},{"id":1746940466719,"input":"11","output":"-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\CP\\Maths & Number Theroy\\Primes.cpp","group":"local","local":true}
